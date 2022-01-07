@@ -153,7 +153,7 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://lisir.me/ -o lisir.me.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.catrol.cn/ -o blog.catrol.cn.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://emoryhuang.cn/ -o emoryhuang.cn.jpg
-
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://520452.xyz/ -o 520452.xyz.jpg
 
         curl https://purge.jsdelivr.net/gh/Akilarlxh/ScreenShot@gh-pages/*.*
     - name: Deploy
